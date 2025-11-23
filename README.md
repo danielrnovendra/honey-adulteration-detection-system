@@ -115,7 +115,7 @@ The high linearity (R² = 0.9971) confirms that conductivity correlates strongly
 
 ---
 
-### 2. Conductivity vs. Adulterant Concentration
+### 2. Conductivity vs Adulterant Concentration
 
 The system was tested on:
 - Pure honey (Madu Samsi, Jombang, East Java, Indonesia)
