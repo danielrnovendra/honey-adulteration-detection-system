@@ -188,6 +188,8 @@ These values were derived from real measured hardware data to ensure accuracy.
 - This approach provides a **low-cost, portable, and practical** alternative to expensive laboratory tools such as FTIR or NMR.  
 - Suitable for **UMKM honey producers**, **field testing**, and **research applications**.
 
+---
+
 ### 6. Experiment Results & Documentations
 
 - **[Project Documentations](https://github.com/danielrnovendra/honey-adulteration-detection-system/tree/9dd8c7108ff05b00243113caa028eaa6f129721e/Documentations)**
