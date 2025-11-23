@@ -4,7 +4,7 @@ This project implements conductivity-based measurement to estimate adulterant co
 
 ---
 
-## 📌 Overview
+## Overview
 Honey adulteration is a common issue, especially with inexpensive sweeteners like corn syrup and sugar solutions. Conventional detection methods (FTIR, NMR, optical analysis) are accurate but expensive and impractical for field use.
 
 This project provides a simpler alternative: **electrical conductivity measurement**.  
@@ -12,7 +12,7 @@ Changes in conductivity correlate strongly with the presence and concentration o
 
 ---
 
-## 🧪 Features
+## Features
 - Conductivity measurement using **TDS probe**
 - **IC 555 astable oscillator** as frequency generator
 - **Arduino Uno** for data acquisition
@@ -27,25 +27,20 @@ Changes in conductivity correlate strongly with the presence and concentration o
 
 ---
 
-## 🛠 System Architecture
+## System Architecture
 
 TDS Probe --> IC 555 Oscillator --> Arduino Uno --> Data Logging
 
 ---
 
-## 🧩 Hardware Used
+## Hardware Used
 - Arduino Uno  
 - TDS Conductivity Probe  
 - IC 555 timer Module
 - Jumper cables
-- LCD (optional)  
-
+ 
 ---
 
-## 🔌 Wiring Diagram (Example)
-
+## Wiring Diagram
 
 ---
-
-## 📁 Repository Structure
-
