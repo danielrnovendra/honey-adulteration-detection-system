@@ -61,7 +61,7 @@ These component values were measured manually to ensure accurate oscillator beha
 
 ---
 
-## 📊 Results & Summary
+## Results & Summary
 
 This section summarizes the key outcomes of the conductivity-based honey adulteration detection system.  
 All experimental results were obtained using the prototype consisting of a TDS probe, 555 astable oscillator, and Arduino-based frequency acquisition.
