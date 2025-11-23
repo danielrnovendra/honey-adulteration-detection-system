@@ -29,7 +29,7 @@ Changes in conductivity correlate strongly with the presence and concentration o
 
 ## System Architecture
 
-TDS Probe --> IC 555 Oscillator --> Arduino Uno --> Data Logging
+Sample --> Sensor (TDS Probe) --> Oscillator (IC 555) --> Arduino Uno --> Data Logging
 
 ---
 
