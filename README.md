@@ -51,7 +51,7 @@ These component values were measured manually to ensure accurate oscillator beha
 | Cell Constant (K) – TDS Probe  | 0.33 cm              | Derived from calibration |
 
 ### Dependencies
-- FreqCount Library (Paul Stoffregen)
+- [FreqCount Library (Paul Stoffregen)](https://github.com/PaulStoffregen/FreqCount)
  
 ---
 
