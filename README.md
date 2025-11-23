@@ -17,13 +17,7 @@ Changes in conductivity correlate strongly with the presence and concentration o
 - **IC 555 astable oscillator** as frequency generator
 - **Arduino Uno** for data acquisition
 - Calibration and characterization:
-  - Range: *26.83–91.21 μS/cm*
-  - Sensitivity: *6.79 %/μS*
-  - Linearity: *y = 0.0137x + 0.4029 (R² = 0.9971)*
-  - Repeatability: *0.356*
 - Adulterant concentration estimation:
-  - Error: *±4.92%*
-  - Using linear estimation model *y = 0.9871x (R² = 0.9901)*
 
 ---
 
