@@ -61,6 +61,39 @@ These component values were measured manually to ensure accurate oscillator beha
 
 ---
 
+## Pre-Experiment Testing & Validation
+
+Before testing honey samples, two validation steps were performed to ensure the oscillator and measurement system operated correctly.
+
+### 1. Oscillator Frequency Test (Without Sample)
+The 555 astable oscillator was tested using a set of known resistor values to verify the inverse relationship between resistance and frequency.
+
+Results show:
+- Frequency decreases consistently as resistance increases  
+- Measured frequency closely matches theoretical values  
+- Confirms that `f ∝ 1/R`, validating the oscillator for conductivity measurement  
+
+$$
+\sigma = G \cdot k = G \cdot \frac{l}{A}
+$$
+
+This ensures that frequency readings accurately reflect the probe’s resistive load.
+
+---
+
+### 2. Hysteresis Test (Input Rising vs Falling)
+To evaluate sensor stability, resistance values were increased and decreased gradually while monitoring frequency output.
+
+Findings:
+
+- Minimal hysteresis observed  
+- Output remains consistent for both rising and falling input sequences  
+- Confirms stable and repeatable measurement characteristics  
+
+This validation confirms the system is suitable for accurate conductivity measurement and adulterant estimation.
+
+---
+
 ## Results & Summary
 
 This section summarizes the key outcomes of the conductivity-based honey adulteration detection system.  
