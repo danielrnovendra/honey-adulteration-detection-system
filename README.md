@@ -65,6 +65,33 @@ These component values were measured manually to ensure accurate oscillator beha
 
 Before testing honey samples, two validation steps were performed to ensure the oscillator and measurement system operated correctly.
 
+### Fundamental Basis - Conductivity Formula (Extended)
+
+The conductivity (σ) is computed from the conductance (G) and the cell constant (k):
+
+$$
+\sigma = G \cdot k
+$$
+
+Using the frequency output of the 555 astable oscillator, the conductance can be expressed as:
+
+$$
+G = \frac{2 f C}{1.44 - f C R_1}
+$$
+
+Thus the full expression for conductivity becomes:
+
+$$
+\sigma = G \cdot k 
+       = \frac{2 f C}{1.44 - f C R_1} \cdot k
+$$
+
+Where:  
+- **f** = oscillator output frequency (Hz)  
+- **C** = timing capacitor (F)  
+- **R₁** = fixed resistor in 555 timing network (Ω)  
+- **k** = cell constant (cm⁻¹)  
+
 ### 1. Oscillator Frequency Test (Without Sample)
 The 555 astable oscillator was tested using a set of known resistor values to verify the inverse relationship between resistance and frequency.
 
