@@ -51,7 +51,8 @@ These component values were measured manually to ensure accurate oscillator beha
 
 ## Wiring Diagram
 
-
+- [Oscillator Circuit Schematics](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/4511555f196749cddf6b35969cb78f86e08c5357/Oscillator_Circuit.png)
+- [Full Circuit Diagram](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/642a996e98ff54e2583b0cd923f662e7443d4f42/Full_Circuit.png)
 
 ---
 
