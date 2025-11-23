@@ -38,9 +38,11 @@ Changes in conductivity correlate strongly with the presence and concentration o
 - TDS Conductivity Probe  
 - IC 555 timer Module
 - Jumper cables
+
+### Dependencies
+- FreqCount Library (Paul Stoffregen)
  
 ---
 
 ## Wiring Diagram
 
----
