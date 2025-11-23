@@ -29,7 +29,7 @@ Changes in conductivity correlate strongly with the presence and concentration o
 
 ## System Architecture
 
-Sample --> Sensor (TDS Probe) --> Oscillator (IC 555) --> Arduino Uno --> Data Logging
+[Sample --> Sensor (TDS Probe) --> Oscillator (IC 555) --> Arduino Uno --> Data Logging](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/167d2acdaa61314b5b05592e94019138ab1242eb/Block-Diagram.png)
 
 ---
 
