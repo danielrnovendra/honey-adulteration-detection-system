@@ -102,9 +102,9 @@ A linear model was developed to estimate adulterant concentration from measured 
 
 **Estimation Model**
 
-y = 0.9871x
-R² = 0.9901
-Error = ±4.92%
+- y = 0.9871x
+- R² = 0.9901
+- Error = ±4.92%
 
 This demonstrates that the system can not only detect adulteration, but also **estimate the adulterant concentration** with high accuracy.
 
@@ -114,13 +114,13 @@ This demonstrates that the system can not only detect adulteration, but also **e
 
 The system converts oscillator frequency → equivalent resistance → conductivity:
 
-R2 = (11612903.226 / frequency) - 500
-EC = ((1 / R2) - (1 / RPOT)) / CellConstant
-EC(μS/cm) = EC × 10⁶
+- R2 = (11612903.226 / frequency) - 500
+- EC = ((1 / R2) - (1 / RPOT)) / CellConstant
+- EC(μS/cm) = EC × 10⁶
 
-Where:
-- RPOT = measured potentiometer max value  
-- Cell Constant (K) = 0.33 cm (from probe calibration)  
+  Where:
+  - RPOT = measured potentiometer max value  
+  - Cell Constant (K) = 0.33 cm (from probe calibration)  
 
 These values were derived from real measured hardware data to ensure accuracy.
 
