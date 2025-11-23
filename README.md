@@ -48,7 +48,7 @@ These component values were measured manually to ensure accurate oscillator beha
 | Potentiometer (Rpot) – minimum | 1.5 Ω                 | At knob minimum |
 | Potentiometer (Rpot) – maximum | 0.96 MΩ               | At knob maximum |
 | Timing capacitor (C)           | 62 nF                 | NPO ceramic |
-| Cell Constant (K) – TDS Probe  | 0.33 cm              | Derived from calibration |
+| Cell Constant (K) – TDS Probe  | 0.33 cm⁻¹             | Derived from calibration |
 
 ### Dependencies
 - [FreqCount Library (Paul Stoffregen)](https://github.com/PaulStoffregen/FreqCount)
@@ -99,10 +99,6 @@ Results show:
 - Frequency decreases consistently as resistance increases  
 - Measured frequency closely matches theoretical values  
 - Confirms that `f ∝ 1/R`, validating the oscillator for conductivity measurement  
-
-$$
-\sigma = G \cdot k = G \cdot \frac{l}{A}
-$$
 
 This ensures that frequency readings accurately reflect the probe’s resistive load.
 
