@@ -96,6 +96,8 @@ Results show:
 
 This ensures that frequency readings accurately reflect the probe’s resistive load.
 
+[Graph Results](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph1%20-%20Oscillator%20Circuit.jpg)
+
 ---
 
 ### 2. Hysteresis Test (Input Rising vs Falling)
@@ -108,6 +110,8 @@ Findings:
 - Confirms stable and repeatable measurement characteristics  
 
 This validation confirms the system is suitable for accurate conductivity measurement and adulterant estimation.
+
+[Graph Results](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph2%20-%20Varying%20Output%20Test.jpg)
 
 ---
 
@@ -182,5 +186,9 @@ These values were derived from real measured hardware data to ensure accuracy.
 - The system demonstrates **high linearity**, **good repeatability**, and **low estimation error**.  
 - This approach provides a **low-cost, portable, and practical** alternative to expensive laboratory tools such as FTIR or NMR.  
 - Suitable for **UMKM honey producers**, **field testing**, and **research applications**.
+
+Experiment Results:
+- [Honey with Mineral Water Adulterant](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph3%20-%20Honey%20%26%20Mineral%20Water.jpg)
+- [Honey with Corn Syrup Adulterant](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph4%20-%20Honey%20%26%20Corn%20Syrup.jpg)
 
 ---
