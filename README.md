@@ -190,9 +190,8 @@ These values were derived from real measured hardware data to ensure accuracy.
 
 ### 6. Experiment Results & Documentations
 
-**- [Project Documentations](https://github.com/danielrnovendra/honey-adulteration-detection-system/tree/9dd8c7108ff05b00243113caa028eaa6f129721e/Documentations)**
-**- [Honey with Mineral Water Adulterant Experiment Graph](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph3%20-%20Honey%20%26%20Mineral%20Water.jpg)**
-**- [Honey with Corn Syrup Adulterant Experiment Graph](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph4%20-%20Honey%20%26%20Corn%20Syrup.jpg)
-**
+- **[Project Documentations](https://github.com/danielrnovendra/honey-adulteration-detection-system/tree/9dd8c7108ff05b00243113caa028eaa6f129721e/Documentations)**
+- **[Honey with Mineral Water Adulterant Experiment Graph](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph3%20-%20Honey%20%26%20Mineral%20Water.jpg)**
+- **[Honey with Corn Syrup Adulterant Experiment Graph](https://github.com/danielrnovendra/honey-adulteration-detection-system/blob/e10eb8f4345ea0649ddaa816283880e8d838e6a0/Graphs/Graph4%20-%20Honey%20%26%20Corn%20Syrup.jpg)**
 
 ---
