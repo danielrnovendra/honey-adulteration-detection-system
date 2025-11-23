@@ -43,10 +43,7 @@ TDS Probe --> IC 555 Oscillator --> Arduino Uno --> Data Logging
 ---
 
 ## 🔌 Wiring Diagram (Example)
-*(Insert your Fritzing image here — or the breadboard diagram you uploaded.)*
 
-Recommended filename:  
-`/images/wiring-diagram.png`
 
 ---
 
