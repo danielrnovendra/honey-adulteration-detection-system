@@ -39,6 +39,17 @@ Changes in conductivity correlate strongly with the presence and concentration o
 - IC 555 timer Module
 - Jumper cables
 
+## Component Specifications (Measured Values)
+
+These component values were measured manually to ensure accurate oscillator behavior and conductivity calculation.
+| Component                        | Measured Value        | Notes |
+|---------------------------------|------------------------|-------|
+| R1 (fixed resistor)             | 1.00 kΩ               | Measured with multimeter |
+| Potentiometer (Rpot) – minimum | 1.5 Ω                 | At knob minimum |
+| Potentiometer (Rpot) – maximum | 0.96 MΩ               | At knob maximum |
+| Timing capacitor (C)           | 62 nF                 | NPO ceramic |
+| Cell Constant (K) – TDS Probe  | 0.33 cm              | Derived from calibration |
+
 ### Dependencies
 - FreqCount Library (Paul Stoffregen)
  
